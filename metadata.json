@@ -1,0 +1,6 @@
+{
+  "name": "Saints extension",
+  "description": "A SaaS agent that plans and executes multi-step tasks, adaptable to a wide range of real-world workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
